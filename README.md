@@ -72,7 +72,7 @@ Welcome to the **Java Core + Advanced Bootcamp** repository! This repo is a comp
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/java-bootcamp.git
+   [git clone https://github.com/Git-Enthusiast/java-bootcamp.git]
    ```
    
 2. **Open the project** in an IDE like IntelliJ IDEA or Eclipse.
@@ -94,7 +94,7 @@ Feel free to fork this repository and contribute by submitting a pull request. W
 
 ## 📞 Contact
 
-For any queries or collaboration, reach out via email: **your.email@example.com**.
+For any queries or collaboration, reach out via email: **rajanraj.cse@gmail.com**.
 
 ---
 
